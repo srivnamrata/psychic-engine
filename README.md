@@ -1,1 +1,1 @@
-# psychic-engine
+# An introduction to Linear Regression
